@@ -1,0 +1,26 @@
+.header{
+  background-color: #ffffff;
+}
+
+.header-image {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.game-title{
+  text-align: center;
+  color: #0009ff;
+  font-size: 1.5em;
+  text-shadow: 2px 1px #7004bf;
+}
+
+.instructions{
+  margin-left: 10%;
+  max-width: 80%;
+}
+.canvas{
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+}

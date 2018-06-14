@@ -1,26 +1,24 @@
 .header{
+  display: inline;
   background-color: #ffffff;
+  color: #7b1bc3;
+  font-family: 'Sunflower', sans-serif;
 }
 
-.header-image {
-  display: block;
-  margin: 0 auto;
-  width: 50%;
-}
 
 .game-title{
   text-align: center;
-  color: #0009ff;
+  color: #000000;
   font-size: 1.5em;
-  text-shadow: 2px 1px #7004bf;
+  text-shadow: 1px 1px #7004bf;
 }
-
 .instructions{
   margin-left: 10%;
   max-width: 80%;
+  text-align: center;
 }
 .canvas{
   display: block;
   margin: 0 auto;
-  width: 90%;
+  width: 60%;
 }
